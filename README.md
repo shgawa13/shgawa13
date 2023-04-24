@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <AiFillGithub className="my-auto mx-3 text-gray-700 text-4xl hover:bg-purple-500 rounded-full p-3" />
+                <AiFillGithub className="my-auto mx-3 text-gray-700 text-4xl hover:bg-purple-500 rounded-full p-3" />
+                <AiFillGithub className="my-auto mx-3 text-gray-700 text-4xl hover:bg-purple-500 rounded-full p-3" />
+                <AiFillGithub className="my-auto mx-3 text-gray-700 text-4xl hover:bg-purple-500 rounded-full p-3" />

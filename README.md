@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shgawa13&count_private=true&theme=tokyonight)](https://github.com/shgawa13/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgawa13&theme=tokyonight)](https://github.com/shgawa13/github-readme-stats)
 <!--
 **shgawa13/shgawa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
